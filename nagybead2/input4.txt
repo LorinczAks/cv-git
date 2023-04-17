@@ -1,0 +1,6 @@
+JANIBA  Kiliti0512  Harcsa  11  Ponty   221
+BALIBA  Kiliti0512  Ponty   11  Harcsa  33
+OCSIBA  Kiliti0512  Ponty   11  Lazac   98
+JOZSIBA Kakato1532  Ponty   45  Ponty   53  Harcsa  96
+LAJOSBA Lamatu2511  Ponty   41  Polip   33  Harcsa  96  Harcsa  100
+LACIBA  Lamatu2511  Ponty   45  Ponty   53  Harcsa  96
